@@ -1,0 +1,19 @@
+1.  git init - установка Git в папку с проектом
+
+2.  echo >> README.md
+
+3.  git config --local user.name "Evgeny" - добавляем пользователя (локально)
+
+4.  git config -- local user.email mail@example.com - добавляем почту
+
+5.  git add -A - переключаем состояние файлов
+
+6.  git status - статус репозитория
+
+7.  git commit -a -m - Коммит
+
+8.  git log - логи
+
+9.
+
+10.
